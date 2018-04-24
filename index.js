@@ -9,7 +9,7 @@
  * @return {number} a hash code for the input string.
  *
  * Usage:
- * const hasher = require ('java-hashCode')
+ * const hasher = require ('java-hashcode')
  * const hashCode = hasher.hasCode("inputString")
  */
 exports.hashCode = function(s) {
